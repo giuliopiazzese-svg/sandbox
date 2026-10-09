@@ -57,3 +57,9 @@ int main(int argc, char *argv[]) {
     fclose(fp);
     return 0;
 }
+
+
+int count_frequency(FILE* fp)
+{
+	return 0;
+}
